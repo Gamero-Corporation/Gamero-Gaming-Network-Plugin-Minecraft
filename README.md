@@ -1,4 +1,4 @@
-Tested Minecraft Versions: 1.18
+Tested Minecraft Versions: 1.18-1.21.4
 
 Languages Supported: português
 
